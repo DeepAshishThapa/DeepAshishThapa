@@ -10,7 +10,7 @@ Web Applications · UI Architecture · API Integration
 
 <p align="center">
 📍 Adelaide, Australia <br>
-✉️ Contact: deepashishthapa@gmail.com <br>
+✉️ Contact: deepashishthapa98@gmail.com <br>
 🔗 
 <a href="https://github.com/DeepAshishThapa">GitHub</a> · 
 <a href="https://www.linkedin.com/in/deep-ashish-thapa-61bb522ba/">LinkedIn</a>
