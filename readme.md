@@ -61,6 +61,7 @@ I enjoy turning complex product ideas into usable interfaces while maintaining c
 <li>HTML / CSS</li>
 <li>Tailwind CSS</li>
 <li>Redux / Zustand</li>
+<li>Tanstack query</li>
 </ul>
 
 <h3>Backend & APIs</h3>
@@ -69,14 +70,12 @@ I enjoy turning complex product ideas into usable interfaces while maintaining c
 <li>Express.js</li>
 <li>REST API design</li>
 <li>JWT authentication</li>
+<li>MongoDB, MySQL</li>
+<li>Mongoose ODM</li>
+<li>MongoDB Aggregation Pipelines</li>
 </ul>
 
-<h3>Database</h3>
-<ul>
-<li>MongoDB</li>
-<li>Mongoose</li>
-<li>MySQL</li>
-</ul>
+
 
 <hr>
 
