@@ -1,4 +1,4 @@
-<h1 align="center">Deep Ashish</h1>
+<h1 align="center">Deep Ashish Thapa</h1>
 
 <p align="center">
 <strong>Software Engineer | React & Modern Web Development</strong>
