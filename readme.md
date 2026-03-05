@@ -60,6 +60,7 @@ I enjoy turning complex product ideas into usable interfaces while maintaining c
 <li>JavaScript / TypeScript</li>
 <li>HTML / CSS</li>
 <li>Tailwind CSS</li>
+<li>Redux / Zustand</li>
 </ul>
 
 <h3>Backend & APIs</h3>
