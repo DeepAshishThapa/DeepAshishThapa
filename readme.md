@@ -29,11 +29,12 @@ Over the past 2+ years, I’ve been deeply focused on frontend engineering — b
 </p>
 
 <p>
-Comfortable working across the frontend–backend boundary using Node.js, Express, and REST APIs. I understand backend architecture, authentication flows, and how APIs integrate with frontend systems to build complete web applications.
+I also work with Node.js and Express on the backend, handling authentication, APIs, and full-stack integration.
+
 </p>
 
 <p>
-I enjoy turning complex product ideas into usable interfaces while maintaining clean code and predictable state management.
+I like clean code, simple solutions, and building things that actually work in real-world scenarios.
 </p>
 
 <hr>
