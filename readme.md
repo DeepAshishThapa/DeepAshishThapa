@@ -25,7 +25,7 @@ Software engineer focused on building real-world web applications using modern J
 </p>
 
 <p>
-Over the past 2+ years, I’ve been deeply focused on frontend engineering — building responsive interfaces, integrating APIs, and structuring scalable UI architecture.
+Over the past 2.5+ years, I’ve been deeply focused on frontend engineering — building responsive interfaces, integrating APIs, and structuring scalable UI architecture.
 </p>
 
 <p>
